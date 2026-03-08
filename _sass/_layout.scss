@@ -50,12 +50,20 @@ body.sticky-bottom-footer {
   margin-top: 0.5rem;
 }
 
-.contact-icons {
-  font-size: 0.8rem;
+.profile-social .contact-icons {
+  font-size: 0.9rem;
+  line-height: 1;
 }
 
-.contact-icons a {
-  margin-right: 6px;
+.profile-social .contact-icons a {
+  margin-right: 8px;
+}
+
+.profile-social .contact-icons i,
+.profile-social .contact-icons svg {
+  font-size: 0.9rem !important;
+  width: 0.9rem;
+  height: 0.9rem;
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns

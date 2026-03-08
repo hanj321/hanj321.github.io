@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Industrial, Manufacturing, and Systems Engineering · Texas Tech University
+#subtitle: Assistant Professor, Industrial, Manufacturing, and Systems Engineering · Texas Tech University
 
 profile:
   align: right

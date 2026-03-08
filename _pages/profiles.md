@@ -7,22 +7,20 @@ nav: true
 nav_order: 3
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: Headshot_HP_01.jpeg
+    content: people/hanjun_park.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Assistant Professor</p>
+      <p>Department of Industrial, Manufacturing, and Systems Engineering</p>
+      <p>Texas Tech University</p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: Sheppard_Photo.jpeg
+    content: people/delaney_sheppard.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>M.S. Student in Bioengineering</p>
+      <p>Texas Tech University</p>
 ---

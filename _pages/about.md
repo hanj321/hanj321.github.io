@@ -13,7 +13,7 @@ profile:
     <p>Texas Tech University</p>
     <p>Lubbock, TX, USA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:

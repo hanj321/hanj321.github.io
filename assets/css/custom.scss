@@ -16,6 +16,7 @@
   margin-left: 60px;
 }
 
-.profiles .profile.align-left img {
-  margin-left: -35px;
+img[src*="Sheppard_Photo.jpeg"] {
+  position: relative;
+  left: -30px;
 }

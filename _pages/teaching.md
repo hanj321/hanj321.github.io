@@ -4,10 +4,10 @@ title: teaching
 permalink: /teaching/
 nav: true
 nav_order: 5
-description: Courses taught and instructional activities.
+#description: Courses taught and instructional activities.
 ---
 
-## Texas Tech University
+## Texas Tech
 
 ### IE 5304: Biomechanics & Work Physiology  
 **Role:** Instructor of Record  

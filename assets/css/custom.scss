@@ -2,10 +2,18 @@
   margin-left: 70px;
 }
 
+/* profile image */
 .profile img {
   margin-left: 60px;
 }
 
+/* department / address text under image */
 .profile .address {
-  margin-left: 70px;
+  margin-left: 60px;
+  width: 220px;   /* keeps text aligned with image width */
+}
+
+/* social media icons */
+.profile .social {
+  margin-left: 60px;
 }

@@ -12,9 +12,11 @@ profiles:
     content: about_hanjun.md
     image_circular: false
     more_info: >
-      <p>Assistant Professor</p>
-      <p>Department of Industrial, Manufacturing, and Systems Engineering</p>
-      <p>Texas Tech University</p>
+      <div style="margin-left:30px; width:210px;">
+        <p>Assistant Professor</p>
+        <p>Department of Industrial, Manufacturing,<br>and Systems Engineering</p>
+        <p>Texas Tech University</p>
+      </div>
 
   - align: left
     image: Sheppard_Photo.jpeg

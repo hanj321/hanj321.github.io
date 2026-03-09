@@ -19,7 +19,8 @@ profiles:
       </div>
 
   - align: left
-    image: Sheppard_Photo.jpeg
+    image: >
+      <img src="/assets/img/Sheppard_Photo.jpeg" style="margin-left:-20px;">
     content: about_delaney.md
     image_circular: false
     more_info: >

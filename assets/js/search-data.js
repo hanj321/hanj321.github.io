@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-hanjun-park-joined-texas-tech-university-as-an-assistant-professor-in-the-department-of-industrial-manufacturing-and-systems-engineering-the-park-lab-was-established-to-advance-research-in-human-centered-systems-physical-ergonomics-and-occupational-biomechanics",
+            },},{id: "news-hanjun-park-joined-texas-tech-university-as-an-assistant-professor-in-the-department-of-industrial-manufacturing-and-systems-engineering-the-park-lab-was-established-to-advance-research-in-human-centered-systems-physical-ergonomics-and-occupational-biomechanics",
           title: 'Hanjun Park joined Texas Tech University as an Assistant Professor in the Department...',
           description: "",
           section: "News",},{id: "news-our-paper-on-muscle-synergy-analysis-of-short-term-adaptation-to-arm-support-exoskeletons-was-accepted-in-the-journal-of-biomechanics",
           title: 'Our paper on muscle synergy analysis of short-term adaptation to arm-support exoskeletons was...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-human-exoskeleton-coordination-during-load-handling-tasks-was-accepted-for-publication-in-annals-of-biomedical-engineering",
+          title: 'Our paper on human–exoskeleton coordination during load-handling tasks was accepted for publication in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

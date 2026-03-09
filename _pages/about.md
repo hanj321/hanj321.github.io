@@ -9,7 +9,7 @@ profile:
   image: Headshot_HP_01.jpeg
   image_circular: false
   more_info: >
-    <div class="profile-more-info">
+    <div style="margin-left:30px;">
       <p>Department of Industrial, Manufacturing, and Systems Engineering</p>
       <p>Texas Tech University</p>
       <p>Lubbock, TX, USA</p>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hanjun Park joined Texas Tech University as an Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering. The Park Lab was established to advance research in human-centered systems, physical ergonomics, and occupational biomechanics.
+Hanjun Park joined Texas Tech University as an Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering. The Park Lab was established!

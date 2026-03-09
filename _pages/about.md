@@ -27,7 +27,7 @@ latest_posts:
   enabled: false
 ---
 
-I am Hanjun Park, an Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering at Texas Tech University and the leader of the **Park Lab**.
+I am Hanjun Park, Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering at Texas Tech University and the leader of the **Park Lab**.
 
 My research advances **human-centered systems** by studying physical ergonomics, occupational biomechanics, and work physiology to better understand how people interact with technologies and work environments.
 

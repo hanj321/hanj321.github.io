@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on human–exoskeleton coordination during load-handling tasks was accepted for publication in *Annals of Biomedical Engineering*.
+Our paper on **Adaptation fo a whole-body powered exoskeleton: Human–exoskeleton coordination during load-handling tasks** was accepted for publication in *Annals of Biomedical Engineering*.

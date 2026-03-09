@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hanjun-park-joined-texas-tech-university-as-an-assistant-professor-in-the-department-of-industrial-manufacturing-and-systems-engineering-the-park-lab-was-established",
-          title: 'Hanjun Park joined Texas Tech University as an Assistant Professor in the Department...',
+            },},{id: "news-hanjun-park-joined-texas-tech-university-as-assistant-professor-in-the-department-of-industrial-manufacturing-and-systems-engineering-the-park-lab-was-established",
+          title: 'Hanjun Park joined Texas Tech University as Assistant Professor in the Department of...',
           description: "",
           section: "News",},{id: "news-our-paper-on-muscle-synergy-analysis-of-short-term-adaptation-to-arm-support-exoskeletons-was-accepted-in-the-journal-of-biomechanics",
           title: 'Our paper on Muscle synergy analysis of short-term adaptation to arm-support exoskeletons was...',

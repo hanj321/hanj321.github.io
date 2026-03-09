@@ -10,7 +10,7 @@ cv:
   social_networks: []
 
   sections:
-    Academic Appointment:
+    Experience:
       - company: Texas Tech University
         position: Assistant Professor
         location: Lubbock, TX
@@ -59,7 +59,7 @@ cv:
         start_date: 2008
         end_date: 2011
 
-    Honors & Awards:
+    Awards:
       - title: Best Experimental Paper Award
         awarder: Occupational Ergonomics Technical Group (OETG), HFES
         date: 2024
@@ -74,7 +74,7 @@ cv:
 
       - title: NIOSH Training Fellow
         awarder: Virginia Tech
-        date: 2023–2025
+        date: 2023-2025
         summary: Fellowship includes monthly stipend, tuition, and required fees
 
       - title: Best Student Paper Award

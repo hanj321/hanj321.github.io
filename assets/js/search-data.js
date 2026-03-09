@@ -409,7 +409,7 @@ ninja.data = [{
           title: 'Hanjun Park joined Texas Tech University as an Assistant Professor in the Department...',
           description: "",
           section: "News",},{id: "news-our-paper-on-muscle-synergy-analysis-of-short-term-adaptation-to-arm-support-exoskeletons-was-accepted-in-the-journal-of-biomechanics",
-          title: 'Our paper on muscle synergy analysis of short-term adaptation to arm-support exoskeletons was...',
+          title: 'Our paper on Muscle synergy analysis of short-term adaptation to arm-support exoskeletons was...',
           description: "",
           section: "News",},{id: "news-our-paper-on-human-exoskeleton-coordination-during-load-handling-tasks-was-accepted-for-publication-in-annals-of-biomedical-engineering",
           title: 'Our paper on human–exoskeleton coordination during load-handling tasks was accepted for publication in...',

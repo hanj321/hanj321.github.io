@@ -12,7 +12,7 @@ profiles:
     content: about_hanjun.md
     image_circular: false
     more_info: >
-      <div style="margin-left:30px; width:210px;">
+      <div style="margin-left:40px">
         <p>Assistant Professor</p>
         <p>Department of Industrial, Manufacturing,<br>and Systems Engineering</p>
         <p>Texas Tech University</p>

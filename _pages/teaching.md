@@ -1,15 +1,24 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
+description: Courses taught and instructional activities.
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Texas Tech University
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### IE 5304: Biomechanics & Work Physiology  
+**Role:** Instructor of Record  
+**Term:** Spring 2026  
 
-{% include courses.liquid %}
+Graduate course introducing biomechanical principles and physiological responses relevant to human work. Topics include muscle function, anthropometry, posture, joint moments, lifting, pushing and pulling, fatigue, and physical work capacity, with applications to ergonomic assessment and design.
+
+---
+
+### IE 4301: Engineering Design for People  
+**Role:** Instructor of Record  
+**Term:** Fall 2026  
+
+Course focused on human-centered design principles, usability, ergonomics, and designing systems and products for people.

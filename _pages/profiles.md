@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the Park Lab
+#description: members of the Park Lab
 nav: true
 nav_order: 3
 

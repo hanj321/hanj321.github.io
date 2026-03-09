@@ -1,3 +1,11 @@
+---
+layout: profiles
+permalink: /people/
+title: people
+description: members of the Park Lab
+nav: true
+nav_order: 3
+
 profiles:
   - align: right
     image: Headshot_HP_01.jpeg
@@ -15,3 +23,4 @@ profiles:
     more_info: >
       <p>M.S. Student in Bioengineering</p>
       <p>Texas Tech University</p>
+---

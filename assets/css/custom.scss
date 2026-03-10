@@ -1,4 +1,17 @@
-/* Delaney image block on the left */
+/* Right-side PI block */
+.profile.float-right {
+  margin-right: 0 !important;
+  position: relative;
+  right: -20px;
+}
+
+.profile.float-right img {
+  display: block;
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+
+/* Left-side student block */
 .profile.float-left {
   margin-left: 0 !important;
   width: 220px;
@@ -13,7 +26,7 @@
   text-align: left;
 }
 
-/* Narrow only the text area next to the left-aligned profile */
-.profile.float-left + .clearfix {
+/* Constrain student text width */
+.profile.float-left + .clearfix p {
   max-width: 560px;
 }

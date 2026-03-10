@@ -1,22 +1,14 @@
-.profile {
-  margin-left: 70px;
+/* Align profile images properly when on the left */
+.profile.float-left {
+  margin-left: 0 !important;
 }
 
-.profile img {
-  margin-left: 60px;
+.profile.float-left img {
+  margin-left: 0 !important;
+  display: block;
 }
 
-.profile .address {
-  margin-left: 68px;
-  width: 205px;
+/* Align the text under the image */
+.profile .more-info {
   text-align: left;
-}
-
-.profile .social {
-  margin-left: 60px;
-}
-
-img[src*="Sheppard_Photo.jpeg"] {
-  position: relative;
-  left: -30px;
 }

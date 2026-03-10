@@ -35,3 +35,7 @@
 .profile.float-left + .clearfix p:not(:first-of-type) {
   max-width: none !important;
 }
+
+.profile .social {
+  margin-left: 20px;
+}

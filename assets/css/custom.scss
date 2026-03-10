@@ -1,23 +1,7 @@
-/* Right-align PI image block */
-.profile.float-right {
-  margin-right: 0 !important;
-  position: relative;
-  right: -15px; /* adjust as needed */
-}
-
-.profile.float-right img {
-  display: block;
-  margin-left: auto !important;
-  margin-right: 0 !important;
-}
-
-.profile.float-right .more-info {
-  text-align: right;
-}
-
-/* Left-align student image block */
+/* Delaney image block on the left */
 .profile.float-left {
   margin-left: 0 !important;
+  width: 220px;
 }
 
 .profile.float-left img {
@@ -25,11 +9,11 @@
   margin-left: 0 !important;
 }
 
-.profile .more-info {
+.profile.float-left .more-info {
   text-align: left;
 }
 
-/* Narrow student description text */
-.student-bio p {
-  max-width: 540px;
+/* Narrow only the text area next to the left-aligned profile */
+.profile.float-left + .clearfix {
+  max-width: 560px;
 }

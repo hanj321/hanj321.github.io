@@ -1,36 +1,37 @@
-/* Right-side PI block on people page only */
-.people-page .profile.float-right {
+/* Right-side PI block */
+.profile.float-right {
   margin-right: 0 !important;
   position: relative;
   right: -20px;
 }
 
-.people-page .profile.float-right img {
+.profile.float-right img {
   display: block;
   margin-right: 0 !important;
   margin-left: auto !important;
 }
 
-/* Left-side student block on people page only */
-.people-page .profile.float-left {
+/* Left-side student block */
+.profile.float-left {
   margin-left: 0 !important;
   width: 220px;
 }
 
-.people-page .profile.float-left img {
+.profile.float-left img {
   display: block;
   margin-left: 0 !important;
 }
 
-.people-page .profile.float-left .more-info {
+.profile.float-left .more-info {
   text-align: left;
 }
 
-/* Only narrow the first bio paragraph on people page */
-.people-page .profile.float-left + .clearfix p:first-of-type {
+/* Only narrow the first bio paragraph */
+.profile.float-left + .clearfix p:first-of-type {
   max-width: 560px;
 }
 
-.people-page .profile.float-left + .clearfix p:not(:first-of-type) {
+/* Make all later paragraphs full width again */
+.profile.float-left + .clearfix p:not(:first-of-type) {
   max-width: none !important;
 }

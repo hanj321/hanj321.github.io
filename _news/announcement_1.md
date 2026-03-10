@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hanjun Park joined Texas Tech University as Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering. The Park Lab was established!
+Hanjun Park joined Texas Tech University as Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering. The **Park Lab** was established!

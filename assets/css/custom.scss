@@ -1,14 +1,14 @@
-/* Align profile images properly when on the left */
-.profile.float-left {
-  margin-left: 0 !important;
+.profile.float-right {
+  margin-right: 0 !important;
+  margin-left: 2rem;
 }
 
-.profile.float-left img {
-  margin-left: 0 !important;
+.profile.float-right img {
   display: block;
+  margin-right: 0 !important;
+  margin-left: auto !important;
 }
 
-/* Align the text under the image */
-.profile .more-info {
-  text-align: left;
+.profile.float-right .more-info {
+  text-align: right;
 }

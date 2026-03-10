@@ -26,7 +26,12 @@
   text-align: left;
 }
 
-/* Constrain ONLY the first paragraph of the student bio */
+/* Only narrow the first bio paragraph */
 .profile.float-left + .clearfix p:first-of-type {
   max-width: 560px;
+}
+
+/* Make all later paragraphs full width again */
+.profile.float-left + .clearfix p:not(:first-of-type) {
+  max-width: none !important;
 }

@@ -491,6 +491,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/hanjun-park-b3119414b", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Hanjun-Park/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',

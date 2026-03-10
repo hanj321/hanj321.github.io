@@ -1,14 +1,35 @@
+/* Right-align PI image block */
 .profile.float-right {
   margin-right: 0 !important;
-  margin-left: 2rem;
+  position: relative;
+  right: -15px; /* adjust as needed */
 }
 
 .profile.float-right img {
   display: block;
-  margin-right: 0 !important;
   margin-left: auto !important;
+  margin-right: 0 !important;
 }
 
 .profile.float-right .more-info {
   text-align: right;
+}
+
+/* Left-align student image block */
+.profile.float-left {
+  margin-left: 0 !important;
+}
+
+.profile.float-left img {
+  display: block;
+  margin-left: 0 !important;
+}
+
+.profile .more-info {
+  text-align: left;
+}
+
+/* Narrow student description text */
+.student-bio p {
+  max-width: 540px;
 }

@@ -411,7 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-muscle-synergy-analysis-of-short-term-adaptation-to-arm-support-exoskeletons-was-accepted-in-the-journal-of-biomechanics",
           title: 'Our paper on Muscle synergy analysis of short-term adaptation to arm-support exoskeletons was...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-adaptation-fo-a-whole-body-powered-exoskeleton-human-exoskeleton-coordination-during-load-handling-tasks-was-accepted-for-publication-in-annals-of-biomedical-engineering",
+          section: "News",},{id: "news-our-paper-on-adaptation-fo-a-whole-body-powered-exoskeleton-human-exoskeleton-coordination-during-load-handling-tasks-amp-lt-a-href-amp-gt-was-accepted-for-publication-in-annals-of-biomedical-engineering",
           title: 'Our paper on Adaptation fo a whole-body powered exoskeleton: Human–exoskeleton coordination during load-handling...',
           description: "",
           section: "News",},{id: "projects-project-1",

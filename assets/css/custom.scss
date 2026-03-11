@@ -39,3 +39,43 @@
 .profile .social {
   margin-left: 80px;
 }
+
+/* Mobile / tablet adjustments */
+@media (max-width: 768px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    right: 0 !important;
+    text-align: center;
+  }
+
+  .profile.float-right img,
+  .profile.float-left img {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 220px;
+    width: 100%;
+    height: auto;
+  }
+
+  .profile.float-left .more-info,
+  .profile.float-right .more-info {
+    text-align: center;
+  }
+
+  .profile.float-left + .clearfix p:first-of-type,
+  .profile.float-left + .clearfix p:not(:first-of-type) {
+    max-width: 100% !important;
+  }
+
+  .profile .social {
+    margin-left: 0 !important;
+    justify-content: center;
+    text-align: center;
+  }
+}

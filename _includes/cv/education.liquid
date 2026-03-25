@@ -25,8 +25,11 @@
             {% comment %} Extract year only from dates like "1933-01-01" or just use "1933" as is {% endcomment %}
             {% assign startDate = start_date | split: '-' | first %}
             {% assign endDate = end_date | split: '-' | first | default: 'Present' %}
+            {% assign degree_type = study_type | downcase | strip %}
 
-            {% if study_type contains 'Ph.D' or study_type contains 'PhD' %}
+            {% if degree_type contains 'ph.d' or degree_type contains 'phd'
+               or degree_type contains 'm.s' or degree_type contains 'ms'
+               or degree_type contains 'b.s' or degree_type contains 'bs' %}
               {% assign date = endDate %}
             {% else %}
               {% assign date = startDate | append: ' - ' | append: endDate %}

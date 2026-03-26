@@ -1,4 +1,4 @@
-## Principal Investigator
+## Principal investigator
 
 Hanjun Park leads the Park Lab and is an Assistant Professor in the Department of Industrial, Manufacturing, and Systems Engineering at Texas Tech University.
 

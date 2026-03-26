@@ -1,4 +1,4 @@
-## Graduate Students
+## Master students
 
 <br>
 

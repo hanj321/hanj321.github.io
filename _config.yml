@@ -204,6 +204,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - assets/jupyter
+    
 keep_files:
   - CNAME
   - .nojekyll
@@ -217,7 +219,7 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
+  #- jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -298,7 +300,8 @@ scholar:
 
   details_dir: bibliography
   details_link: Details
-
+  sort_by: month
+  order: descending
   query: "@*"
   group_by: year
   group_order: descending

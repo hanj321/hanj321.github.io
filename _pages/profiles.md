@@ -37,7 +37,7 @@ profiles:
 </h4>
 
 <p>
-Park Lab is seeking highly motivated PhD students interested in:
+Park Lab is seeking highly motivated graduate students interested in:
 </p>
 
 <ul>

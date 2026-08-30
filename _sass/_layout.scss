@@ -19,6 +19,10 @@ body {
   }
 }
 
+h2 + h3 {
+  margin-top: 30px;
+}
+
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
   padding-top: 57px;
@@ -33,12 +37,26 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
-// Profile
+
+/******************************************************************************
+ * Profile
+ ******************************************************************************/
+
+/******************************************************************************
+ * Profile
+ ******************************************************************************/
+
 .profile {
   img {
     width: 200px;
     height: auto;
   }
+}
+
+/* Align right-side profile photos with the recruitment box */
+.profile.float-right img {
+  position: relative;
+  right: 18px;
 }
 
 .more-info {
@@ -70,19 +88,60 @@ body.sticky-bottom-footer {
   height: 1.6rem;
 }
 
-// Content layout uses Bootstrap's grid system with responsive columns
-// Main content flows naturally through container-mt-5 and Bootstrap grid classes
-// See _layouts/default.liquid and _includes/projects.liquid for examples
+
+/******************************************************************************
+ * Student profiles
+ ******************************************************************************/
+
+/* Move student photos down so they align more closely with student names */
+.profile:has(.student-info) {
+  margin-top: 60px;
+}
+
+/* Make student photos slightly larger than the PI photo */
+.profile:has(.student-info) img {
+  width: 220px;
+  height: auto;
+}
+
+/* Reserve space beside BK's left-aligned photo */
+.profile.float-left:has(.student-info) + .clearfix {
+  margin-left: 255px;
+}
+
+/* Pull the "PhD students" heading back to the full left boundary */
+.profile.float-left:has(.student-info) + .clearfix h2 {
+  position: relative;
+  left: -255px;
+  width: calc(100% + 255px);
+  text-align: left;
+}
+
+/* Reserve space beside Delaney's right-aligned photo */
+.profile.float-right:has(.student-info) + .clearfix {
+  margin-right: 255px;
+}
+
+
+/******************************************************************************
+ * Content layout
+ ******************************************************************************/
+
+// Content layout uses Bootstrap's grid system with responsive columns.
+// Main content flows naturally through container-mt-5 and Bootstrap grid classes.
+// See _layouts/default.liquid and _includes/projects.liquid for examples.
+
 
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
-// Publications layout is defined in _includes/bib_search.liquid
-// Uses jekyll-scholar for BibTeX parsing and Bootstrap cards for display
+// Publications layout is defined in _includes/bib_search.liquid.
+// Uses jekyll-scholar for BibTeX parsing and Bootstrap cards for display.
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+
+/******************************************************************************
+ * Projects
+ ******************************************************************************/
 
 // TODO: redefine projects layout.

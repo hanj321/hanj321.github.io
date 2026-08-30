@@ -12,14 +12,18 @@ profiles:
     image_circular: false
 
   - align: left
+    image: BK_pic.png
+    content: about_BK.md
+    image_circular: false
+    more_info: >
+      <div class="student-info"></div>
+
+  - align: right
     image: Sheppard_Photo.jpeg
     content: about_delaney.md
     image_circular: false
     more_info: >
-      <div class="delaney-info">
-        <p>M.S. Student in Bioengineering</p>
-        <p>Texas Tech University</p>
-      </div>
+      <div class="student-info"></div>
 ---
 
 <hr>
@@ -33,7 +37,7 @@ profiles:
 ">
 
 <h4 style="color:#1f4e79; margin-top:0;">
-🚀 Recruiting graduate students (Fall 2026/Spring 2027)
+🚀 Prospective graduate students
 </h4>
 
 <p>

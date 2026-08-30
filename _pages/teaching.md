@@ -9,6 +9,26 @@ nav_order: 5
 
 ## Texas Tech
 
+### IE 5301: Advanced Industrial Ergonomics  
+**Role:** Instructor of Record  
+**Term:** Fall 2026  
+**Format:** In-person & Distance Learning  
+**Enrollment:** 32 students  
+
+Graduate course examining human performance in interactions with products, tools, environments, and machines. Topics include human physical and cognitive capabilities, sensory systems, and ergonomics tools and methods for evaluating and designing human-centered products, tasks, and workplaces.
+
+---
+
+### IE 4301: Engineering Design for People  
+**Role:** Instructor of Record  
+**Term:** Fall 2026  
+**Format:** In-person  
+**Enrollment:** 40 students  
+
+Undergraduate course applying human factors and ergonomics principles to the design of products, tasks, and workplaces. Topics include human physical and cognitive capabilities, sensory systems, ergonomic assessment methods, and human-centered design, with emphasis on improving human performance, efficiency, and safety.
+
+---
+
 ### IE 5304: Biomechanics & Work Physiology  
 **Role:** Instructor of Record  
 **Term:** Spring 2026  

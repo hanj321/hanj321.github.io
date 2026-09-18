@@ -415,7 +415,7 @@ ninja.data = [{
           title: 'Our paper on Adaptation to a whole-body powered exoskeleton: Human–exoskeleton coordination during load-handling...',
           description: "",
           section: "News",},{id: "news-a-paper-co-authored-by-dr-park-design-fabrication-and-testing-of-an-ergonomic-brace-for-virtual-reality-headset-using-3d-printing-was-accepted-for-publication-in-ergonomics",
-          title: 'A paper co-authored by Dr. Park, Design, fabrication, and testing of an ergonomic...',
+          title: 'A paper co-authored by Dr. Park, “Design, Fabrication, and Testing of an Ergonomic...',
           description: "",
           section: "News",},{id: "news-a-paper-co-authored-by-dr-park-biomechanical-effects-of-3d-printed-and-spring-based-virtual-reality-headset-support-and-task-demands-on-the-neck-was-accepted-for-publication-in-iise-transactions-on-occupational-ergonomics-and-human-factors",
           title: 'A paper co-authored by Dr. Park, “Biomechanical Effects of 3D-Printed and Spring-Based Virtual...',

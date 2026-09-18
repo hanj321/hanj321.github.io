@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper co-authored by Dr. Park, <a href="https://doi.org/10.1080/24725838.2026.2680465"><strong>“Biomechanical Effects of 3D-Printed and Spring-Based Virtual Reality Headset Support and Task Demands on the Neck”</strong></a>, was accepted for publication in <em>IISE Transactions on Occupational Ergonomics and Human Factors</em>.
+A paper co-authored by Dr. Park, <a href="https://doi.org/10.1080/24725838.2026.2680465">“Biomechanical Effects of 3D-Printed and Spring-Based Virtual Reality Headset Support and Task Demands on the Neck”</a>, was accepted for publication in <em>IISE Transactions on Occupational Ergonomics and Human Factors</em>.

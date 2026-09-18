@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on <a href="https://doi.org/10.1016/j.jbiomech.2025.113135"><em>Muscle synergy analysis of short-term adaptation to arm-support exoskeletons</em></a> was accepted in the <strong>Journal of Biomechanics</strong>.
+Our paper, <a href="https://doi.org/10.1016/j.jbiomech.2025.113135"><strong>“Muscle Synergy Analysis of Short-Term Adaptation to Arm-Support Exoskeletons”</strong></a>, was accepted for publication in <em>Journal of Biomechanics</em>.

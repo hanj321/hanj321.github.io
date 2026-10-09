@@ -52,8 +52,8 @@ Park Lab is seeking highly motivated graduate students interested in:
 
 <p>
 Interested applicants should email
-<a href="mailto:hanjun.park@ttu.edu">hanjun.park@ttu.edu</a>
-with their CV and a brief statement of research interests.
+<a href="mailto:hanjun.park@ttu.edu">hanjpark@ttu.edu</a>
+with their CV, transcripts, and a brief statement of research interests.
 </p>
 
 </div>

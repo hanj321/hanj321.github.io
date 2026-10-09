@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-09-07 09:00:00-0500
+inline: true
+related_posts: false
+---
+
+A paper co-authored by Dr. Park, <a href="https://journals.sagepub.com/doi/full/10.1177/10711813261485998" style="color: inherit;">“Impact of Instructional Training on Exoskeleton Users’ Performance, Self-Efficacy, and Strategies: A Pilot Study”</a>, was published in the <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>.

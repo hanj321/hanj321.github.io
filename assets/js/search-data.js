@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -418,6 +425,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-a-paper-co-authored-by-dr-park-impact-of-instructional-training-on-exoskeleton-users-performance-self-efficacy-and-strategies-a-pilot-study-was-published-in-the-proceedings-of-the-human-factors-and-ergonomics-society-annual-meeting",
           title: 'A paper co-authored by Dr. Park, “Impact of Instructional Training on Exoskeleton Users’...',
+          description: "",
+          section: "News",},{id: "news-park-lab-will-present-two-oral-presentations-at-the-2026-human-factors-and-ergonomics-society-hfes-aspire-annual-meeting-in-reno-nevada-dr-park-is-also-a-co-author-of-a-poster-presentation-at-the-conference",
+          title: 'Park Lab will present two oral presentations at the 2026 Human Factors and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

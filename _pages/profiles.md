@@ -25,7 +25,7 @@ profiles:
     more_info: >
       <div class="student-info"></div>
 
-    - align: left
+  - align: right
     content: about_inchan.md
     more_info: >
       <div class="student-info"></div>

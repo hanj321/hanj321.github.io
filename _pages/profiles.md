@@ -24,6 +24,11 @@ profiles:
     image_circular: false
     more_info: >
       <div class="student-info"></div>
+
+    - align: left
+    content: about_inchan.md
+    more_info: >
+      <div class="student-info"></div>
 ---
 
 <hr>

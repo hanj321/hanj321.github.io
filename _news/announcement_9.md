@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper led by Dr. Park, “Characterizing Adaptation to Using Exoskeletons: A Narrative Review and Assessment Framework for Occupational Contexts”, was accepted for publication in <em>Applied Ergonomics</em>.
+A paper led by Dr. Park, <a href="https://doi.org/10.1016/j.apergo.2026.104914" style="color: inherit;">“Characterizing Adaptation to Using Exoskeletons: A Narrative Review and Assessment Framework for Occupational Contexts”</a>, was accepted for publication in <em>Applied Ergonomics</em>.
